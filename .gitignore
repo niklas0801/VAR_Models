@@ -162,4 +162,5 @@ cython_debug/
 #.idea/
 
 # Datasets
-GPD_Germany.xlsx
+GDP_Germany.xlsx
+Consumer Price Index - All Items - Total for United States.csv
